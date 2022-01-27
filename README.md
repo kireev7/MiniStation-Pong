@@ -3,3 +3,5 @@ Hi everyone, recently I wanted to do something interesting with a microcontrolle
 ![MiniStation-Pong](https://user-images.githubusercontent.com/93592475/151336201-2a9801fd-257b-48e8-a1ad-d786b1b010c3.png)  
 Instead of a mini USB, you can connect a 5 volt power supply from the Arduino. As a result, you should get the following: (folded on the breadboard) 
 ![MiniStation_on_board](https://user-images.githubusercontent.com/93592475/151337167-883b6187-e4a9-418c-b232-61d29a366866.png)
+#The end result:
+![Result](https://user-images.githubusercontent.com/93592475/151339267-8a583e63-d681-4a64-b837-c371a26b5395.gif)
